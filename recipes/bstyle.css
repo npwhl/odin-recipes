@@ -1,3 +1,20 @@
 h1 {
     text-align: center;
 }
+
+#desc {
+    color:greenyellow;
+}
+
+.ing {
+    color: pink;
+}
+
+.steps {
+    color:red;
+}
+
+.ing, .steps, #desc {
+    text-align: center;
+    font-size: 30px;
+}
